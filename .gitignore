@@ -1,0 +1,7 @@
+# Arquivos locais e compactados do acervo original
+*.7z
+desktop.ini
+Thumbs.db
+
+# Arquivos temporarios do Office
+~$*.docx
